@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E7A2B577-D660-9F66-5CE1-80EC6BC73172}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Target.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Door.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Scripts/Gun.cs" Line="33" Column="77" />
+      <File FileName="Assets/Scripts/Target.cs" Line="23" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProBuilder_Simple_Scene" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Target.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7d2bff8-c489-4828-b0dc-a6257afd2a27" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
